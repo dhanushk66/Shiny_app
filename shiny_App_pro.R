@@ -293,7 +293,11 @@ if (require("shiny")) {
 # ----------------------------------------------------------------------
   
   
-  
+## Selecting particular country and finding the pie chart of number of their launches
+## Select particular country and showing a scatterplot if their increase over time
+## Getting barplot for theing usage of sattllite for purpose
+## Finding the average of perigee and apogee for each type of orbit
+## The type of users holding their satellite
 
 
 
